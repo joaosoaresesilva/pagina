@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/pagina/sitemap.xml
+Sitemap: https://joaosoaresesilva.github.io/pagina/sitemap.xml
