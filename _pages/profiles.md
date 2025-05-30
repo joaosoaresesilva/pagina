@@ -18,7 +18,7 @@ profiles:
       <p>123 your address street</p>
       <p>Coimbra, Portugal</p>
   - align: left
-    image: prof_pic.jpg
+    image: prof__pic.jpg
     content: about_joao.md
     image_circular: false # crops the image to make it circular
     
