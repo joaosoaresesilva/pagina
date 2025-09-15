@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pagina/cv/";
           },
-        },{id: "nav-projects",
-          title: "projects",
+        },{id: "nav-teaching",
+          title: "teaching",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/pagina/projects/";
+            window.location.href = "/pagina/teaching/";
           },
         },{id: "nav-teaching",
           title: "teaching",
