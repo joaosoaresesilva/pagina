@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pagina/teaching/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/pagina/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -79,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/pagina/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/pagina/teaching/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
