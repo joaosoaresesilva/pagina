@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-João Silva é atualmente formador profissional nas áreas de Eletricidade, Automação e Computadores.Obteve o grau de Mestre em Engenharia Eletrotécnica e Computadores em Telecomunicações na Universidade de Coimbra. Em Moçambique, na cidade da Beira, foi atribuido o grau de Técnico Médio em Sistemas Elétricos Industriais pelo Instituto Industrial e Comercial da Beira. Estagiou na empresa Eletricidade de Moçambique. . Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+João Silva is a professional trainer in Electricity, Automation, and Computer Science. He earned his Master’s degree in Electrical and Computer Engineering (Telecommunications) from the University of Coimbra. Previously, in Beira, Mozambique, he was awarded the Technical Degree in Industrial Electrical Systems by the Instituto Industrial e Comercial da Beira. His professional background includes an internship at Electricidade de Moçambique.. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
